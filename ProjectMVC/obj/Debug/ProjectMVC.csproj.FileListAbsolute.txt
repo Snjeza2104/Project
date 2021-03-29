@@ -83,3 +83,11 @@ C:\Users\snjez\source\repos\Project\ProjectMVC\obj\Debug\ProjectMVC.dll
 C:\Users\snjez\source\repos\Project\ProjectMVC\obj\Debug\ProjectMVC.pdb
 C:\Users\snjez\source\repos\Project\ProjectMVC\bin\AutoMapper.dll
 C:\Users\snjez\source\repos\Project\ProjectMVC\bin\AutoMapper.xml
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\nunit.framework.dll
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\snjez\source\repos\Project\ProjectMVC\bin\nunit.framework.xml
+C:\Users\snjez\source\repos\Project\ProjectMVC\obj\Debug\ProjectMVC.Migrations.third.resources
+C:\Users\snjez\source\repos\Project\ProjectMVC\obj\Debug\ProjectMVC.csproj.GenerateResource.cache
