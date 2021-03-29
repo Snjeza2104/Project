@@ -7,7 +7,7 @@ namespace ProjectService
     using System.Data.Entity.Spatial;
 
     [Table("VehicleModel")]
-    public partial class VehicleModel
+    public partial class VehicleModel : IVehicleModel
     {
         public int Id { get; set; }
 

@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectMVC", "ProjectMVC\ProjectMVC.csproj", "{B8EF4E1D-CA4F-4006-8835-ACF542587028}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectService", "ProjectService\ProjectService.csproj", "{BD9274EF-7E75-4432-93A9-F5536869DF7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8ED280B5-DCC1-4336-B31D-F79FC9DCBA0F}"
+	ProjectSection(SolutionItems) = preProject
+		Vozila.sql = Vozila.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{B8EF4E1D-CA4F-4006-8835-ACF542587028}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EF4E1D-CA4F-4006-8835-ACF542587028}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EF4E1D-CA4F-4006-8835-ACF542587028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9274EF-7E75-4432-93A9-F5536869DF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9274EF-7E75-4432-93A9-F5536869DF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9274EF-7E75-4432-93A9-F5536869DF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9274EF-7E75-4432-93A9-F5536869DF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
